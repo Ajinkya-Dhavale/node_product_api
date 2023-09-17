@@ -1,0 +1,85 @@
+{
+"products": [
+{
+"_id": "6506b463989292b0dbb74c5d",
+"name": "iphone 14 pro",
+"price": 400000,
+"featured": false,
+"rating": 5,
+"createAt": "2023-09-17T08:10:03.918Z",
+"company": "Apple",
+"__v": 0
+},
+{
+"_id": "6506b463989292b0dbb74c5e",
+"name": "iphone 13 pro",
+"price": 50000,
+"featured": false,
+"rating": 5,
+"createAt": "2023-09-17T08:10:03.918Z",
+"company": "Apple",
+"__v": 0
+},
+{
+"_id": "6506b463989292b0dbb74c62",
+"name": "iphone 13 pro",
+"price": 50000,
+"featured": false,
+"rating": 5,
+"createAt": "2023-09-17T08:10:03.918Z",
+"company": "Apple",
+"__v": 0
+},
+{
+"_id": "6506b463989292b0dbb74c61",
+"name": "iphone 14 pro",
+"price": 400000,
+"featured": false,
+"rating": 5,
+"createAt": "2023-09-17T08:10:03.918Z",
+"company": "Apple",
+"__v": 0
+},
+{
+"_id": "6506b463989292b0dbb74c63",
+"name": "Realme 7 pro",
+"price": 20000,
+"featured": false,
+"rating": 5,
+"createAt": "2023-09-17T08:10:03.918Z",
+"company": "Realme",
+"__v": 0
+},
+{
+"_id": "6506b463989292b0dbb74c64",
+"name": "Samsung s20 ulta",
+"price": 80000,
+"featured": false,
+"rating": 5,
+"createAt": "2023-09-17T08:10:03.918Z",
+"company": "Samsung",
+"__v": 0
+},
+{
+"_id": "6506b463989292b0dbb74c60",
+"name": "Samsung s20 ulta",
+"price": 80000,
+"featured": false,
+"rating": 5,
+"createAt": "2023-09-17T08:10:03.918Z",
+"company": "Samsung",
+"__v": 0
+},
+{
+"_id": "6506b463989292b0dbb74c5f",
+"name": "Realme 7 pro",
+"price": 20000,
+"featured": false,
+"rating": 5,
+"createAt": "2023-09-17T08:10:03.918Z",
+"company": "Realme",
+"__v": 0
+}
+],
+"countData": 8
+}
